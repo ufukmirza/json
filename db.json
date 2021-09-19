@@ -12,10 +12,10 @@
       "dislikes": ["stale food"]
     }
   },
-  {
+  {  
+    "image": "https://images.unsplash.com/photo-1491604612772-6853927639ef?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGRvZ3N8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
     "name": "Pupster",
     "species" : "dog",
-     "image": "https://images.unsplash.com/photo-1491604612772-6853927639ef?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGRvZ3N8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
     "foods": {
       "likes": ["tomatoes", "peas"],
       "dislikes": ["bread"]
